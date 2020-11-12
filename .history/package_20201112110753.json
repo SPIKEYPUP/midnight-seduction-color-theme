@@ -12,7 +12,7 @@
         "Deuteranopia",
         "Dark"
         ],
-    "version": "1.0.2",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.51.0"
     },
