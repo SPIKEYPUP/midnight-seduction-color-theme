@@ -1,18 +1,10 @@
 {
     "name": "midnight-seduction",
-    "displayName": "Midnight Seduction Color Theme",
-    "description": "A dark but vibrant VSCode color theme helpful to those with deuteranopia.",
-    "publisher": "Spikeyware",
+    "displayName": "midnight-seduction",
+    "description": "A dark but vibrant color theme for Visual Studio Code helpful to those with deuteranopia",
+    "publisher": "ykvhzwktnovj3tlz2xy3you3ehulgxk5h2cmarlzkts2fngoioia",
     "repository": "{https://github.com/SPIKEYPUP/midnight-seduction-color-theme}",
-    "icon": "pup.png",
-    "keywords": [
-        "Theme",
-        "Color",
-        "Colorblind",
-        "Deuteranopia",
-        "Dark"
-        ],
-    "version": "1.0.0",
+    "version": "0.9.9",
     "engines": {
         "vscode": "^1.51.0"
     },

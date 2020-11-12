@@ -1,0 +1,22 @@
+{
+    "name": "midnight-seduction",
+    "displayName": "midnight-seduction",
+    "description": "A dark but vibrant color theme for Visual Studio Code helpful to those with deuteranopia",
+    "publisher": "ykvhzwktnovj3tlz2xy3you3ehulgxk5h2cmarlzkts2fngoioia",
+    "version": "0.9.9",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Seduction",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight Seduction-color-theme.json"
+            }
+        ]
+    }
+}
