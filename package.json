@@ -1,7 +1,7 @@
 {
-    "name": "midnight-seduction-color-theme",
-    "displayName": "Midnight Seduction",
-    "description": "A customized color theme for Visual Studio Code created by Spikeypup",
+    "name": "midnight-seduction",
+    "displayName": "midnight-seduction",
+    "description": "A dark but vibrant color theme for Visual Studio Code helpful to those with deuteranopia",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.51.0"
